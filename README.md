@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.:computer:
 
- :notebook:  &nbsp; Estudante na **Centro Universitário de João Pessoa - UNIPÊ**
+ :notebook:  &nbsp; Estudante na **Universidade Federal de Campina Grande**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end & Back-end
  <br/> :battery: &nbsp; Sempre disposto a ajudar
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, aprender sobre o universo frontend, resolver novos desafios
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, aprender sobre o universo FullStack, resolver novos desafios
  <br/> :headphones:  &nbsp;João Gomes, Engenheiros do Hawaii, Link Park, The Weeknd, Matuê, etc
  <br/> :computer: 🖱️
- <br/> ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=azevedogabriel&show_icons=true&theme=vue)
+ <br/> ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=azevedogabriel&show_icons=true&theme=vue)
  <br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevedogabriel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  <div align="center">
   <a href="https://www.instagram.com/_gabrieldsa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "gabriel.gemeo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "gabriel.dantas.azevedo@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-azevedo-aa959a1a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
