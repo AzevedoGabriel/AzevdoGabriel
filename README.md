@@ -38,4 +38,5 @@ Sou apaixonado por resolver problemas utilizando a programação.:computer:
 </br>
 
 
-![snake gif](https://github.com/AzevedoGabriel/AzevedoGabriel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AzevedoGabriel/AzevedoGabriel/blob/output/snake.svg)
+
