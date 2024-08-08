@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: AzevedoGabriel
           output: dist/snake.svg
 
       - name: Push Snake.svg to the output branch
